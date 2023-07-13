@@ -1,2 +1,1 @@
-Readme, you just did
-Yosh!
+This is a readme file
